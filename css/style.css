@@ -53,7 +53,9 @@ h6,
     font-weight: 500 !important;
 }
 
-
+.logoImg{
+    width: 50px;
+}
 /*** Gradient Text & BG ***/
 .text-primary-gradient {
     background: linear-gradient(to bottom right, var(--primary), var(--secondary));
